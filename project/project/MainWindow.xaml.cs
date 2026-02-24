@@ -29,5 +29,12 @@ namespace project
         {
 
         }
+
+        private void auto_Click(object sender, RoutedEventArgs e)
+        {
+            string login = vvod.Text;
+            laba2okno1 secondWindow = new laba2okno1();
+            secondWindow.ShowDialog();
+        }
     }
 }

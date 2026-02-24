@@ -1,0 +1,17 @@
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\bin\Debug\project.exe.config
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\bin\Debug\project.exe
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\bin\Debug\project.pdb
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\obj\Debug\laba2okno1.g.cs
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\obj\Debug\MainWindow.g.cs
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\obj\Debug\App.g.cs
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\obj\Debug\project_MarkupCompile.cache
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\obj\Debug\project_MarkupCompile.lref
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\obj\Debug\laba2okno1.baml
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\obj\Debug\MainWindow.baml
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\obj\Debug\project.g.resources
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\obj\Debug\project.exe
+C:\Users\USER\OneDrive\Desktop\laba2\Ibragimova4338\project\project\obj\Debug\project.pdb
